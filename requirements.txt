@@ -1,0 +1,5 @@
+apache-beam[gcp]
+google-cloud-storage
+google-cloud-bigquery
+flask
+google-api-python-client
